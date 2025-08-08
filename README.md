@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://your-banner-url.com/banner.gif" alt="Banner" width="100%" />
+</p>
 
-<!--
-**BinaryBard2129/BinaryBard2129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm Joy Das</h1>
+<h3 align="center">🌐 Front-End Web Developer | React Enthusiast | Code Artisan</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently building modern web apps using React and modern JavaScript
+- 🧠 Always learning: React ecosystem, performance optimization, and frontend best practices
+- 🛠️ I focus on writing clean, maintainable, and scalable front-end code
+- 🌍 Based in **Bangladesh**, available for remote work and collaborations
+- ⚡ Fun fact: I love solving problems with code and turning ideas into reality
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,git,github,netlify,vercel" alt="Skills" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BinaryBard2129&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=BinaryBard2129&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBard2129&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Live Demo |
+|--------|-------------|-------|-----------|
+| **Pet Adoption Platform 🐾** | Web app to list and adopt pets, includes user auth, donations, and dashboard. | React, Express, MongoDB, Stripe | [Visit](https://yourprojectlink.com) |
+| **Doctor Appointment System 🩺** | Book and cancel appointments, view doctor fee charts, and more. | React, Chart.js, Express | [Visit](https://yourprojectlink.com) |
+| **GardenHub 🌱** | Browse gardening tips, CRUD tips, update/delete features included. | React, Firebase, Tailwind | [Visit](https://yourprojectlink.com) |
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BinaryBard2129">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Front-End+Developer+Focused+on+React;Building+fast+%2C+scalable+web+apps;Writing+clean+%26+modern+code" />
+</p>
+
+---
+
+
+
+<p align="center">
+  🚀 Powered by passion & coffee | Made with ❤️ by <strong>Joy Das</strong>
+</p>
