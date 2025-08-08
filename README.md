@@ -51,7 +51,7 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="www.linkedin.com/in/joy-das21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@example.com">
