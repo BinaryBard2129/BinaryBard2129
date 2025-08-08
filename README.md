@@ -42,9 +42,9 @@
 
 | Project | Description | Stack | Live Demo |
 |--------|-------------|-------|-----------|
-| **Pet Adoption Platform 🐾** | Web app to list and adopt pets, includes user auth, donations, and dashboard. | React, Express, MongoDB, Stripe | [Visit](https://yourprojectlink.com) |
-| **Doctor Appointment System 🩺** | Book and cancel appointments, view doctor fee charts, and more. | React, Chart.js, Express | [Visit](https://yourprojectlink.com) |
-| **GardenHub 🌱** | Browse gardening tips, CRUD tips, update/delete features included. | React, Firebase, Tailwind | [Visit](https://yourprojectlink.com) |
+| **Food Order Platform 🐾 | Web app to order food, includes user auth, add foods, and gallery. | React, Express, MongoDB | [Visit](https://bright-conkies-a36dd1.netlify.app/) |
+| **Doctor Appointment System 🩺** | Book and cancel appointments, view doctor fee charts, and more. | React, Chart.js, Express | [Visit](https://peppy-elf-3b9a21.netlify.app/) |
+| **GardenHub 🌱** | Browse gardening tips, CRUD tips, update/delete features included. | React, Firebase, Tailwind | [Visit](https://timely-fenglisu-5dc847.netlify.app/) |
 
 ---
 
